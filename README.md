@@ -3,7 +3,7 @@ Last Modified : Dec 28.2020
 # Kubernetes Dashboard Configuration Steps :(With NodePort)
 ---------------------------------------------------------
 
-**### Pre-Requisites (Optional ): **
+### Pre-Requisites (Optional ): 
 Download the official/recommended K8s dashboard yaml file and modify it. Modified version
 is included in this repo. If you'd rather do modification yourself , perform following : 
 wget https://raw.githubusercontent.com/kubernetes/dashboard/v2.1.0/aio/deploy/recommended.yaml
